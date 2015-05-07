@@ -1,0 +1,2 @@
+exports.Class=function (argument) {
+};
